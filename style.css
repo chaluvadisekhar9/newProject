@@ -1,0 +1,42 @@
+html, body{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.mainContainer{
+    height: 100vh;
+}
+.bgColor1{
+    background-color: #e8e2e3;
+}
+.searchHeight{
+    height: 10%;
+}
+.navHeight{
+    height: 76%;
+}
+.feedbackHeight{
+    height: 14%;
+}
+.overFlow-control{
+    overflow-y: auto;
+    height: 70%;
+}
+.bgColor2{
+    background-color: #f5efef;
+}
+.nav-top{
+    height: 4rem;
+    
+}
+.textColor{
+    color: #5d5c5c;
+}
+.codeContainer{
+    height: 15rem;    
+}
+.iconAlign{
+    position: relative;
+    left: 2rem;
+}
